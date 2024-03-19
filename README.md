@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @WahyuHidayattz
-- 👀 I’m interested in Android 
-- 🌱 I’m currently learning Basic Java and Xml
-- 💞️ I’m looking to collaborate on Particular Project
+Hallo, nama saya Wahyu Hidayat, saya adalah seorang biasa saja. iseng-iseng coding bahasa pemerograman.
 
 <!---
 WahyuHidayattz/WahyuHidayattz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
